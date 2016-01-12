@@ -1,0 +1,28 @@
+name: mugsinc
+favicon: null
+layout_spectrum: 0.7545227319933474
+typography_spectrum: 0.5424069743603468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5618742548394948
+  lightness: 0.003135503036901355
+  saturation: 0.315559706883505
+  rhythmicContrast: 0.07814464950934052
+purpose: []
