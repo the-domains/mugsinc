@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[mugsinc]]></title>
         <description><![CDATA[mugsinc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mugsinc.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 04:36:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 04:36:57 GMT</lastBuildDate>
+        <atom:link href="http://mugsinc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iPhone Photography - Photos by Mugunthan Balakrishnan - 500px]]></title>
+            <description><![CDATA[<article><h1>iPhone Photography - Photos by Mugunthan Balakrishnan - 500px</h1><p>Take your photos to the next level! Save 15% on Plus and Awesome for a limited time only!</p><img src="https://drscdn.500px.org/photo/43804496/m%3D2048/520f5f9d14a2ba74b3cde51d839dfe53"></article>]]></description>
+            <link>https://500px.com/mugs/galleries/iphone_photography</link>
+            <guid isPermaLink="false">4cfedc2c-5d31-472e-bd3f-fd4b65f79cc5</guid>
+            <pubDate>Wed, 13 Jan 2016 04:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Food - Photos by Mugunthan Balakrishnan - 500px]]></title>
             <description><![CDATA[<article><h1>Food - Photos by Mugunthan Balakrishnan - 500px</h1><p>Take your photos to the next level! Save 15% on Plus and Awesome for a limited time only!</p><img src="https://drscdn.500px.org/photo/8787500/m%3D2048/2779495c95ce15a7c670fcc9c5c5c972"></article>]]></description>
